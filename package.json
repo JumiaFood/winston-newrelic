@@ -1,7 +1,7 @@
 {
   "name": "winston-newrelic",
   "description": "Reports winston log errors to new-relic, fork of https://github.com/ranm8/winston-newrelic.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "mocha -R spec test/*.js test/*.js"
   },

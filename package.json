@@ -31,13 +31,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foodpanda/winston-newrelic.git"
+    "url": "https://github.com/jumiafood/winston-newrelic.git"
   },
   "engines": {
     "node": "~0.10.x"
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/foodpanda/winston-newrelic/issues"
+    "url": "https://github.com/jumiafood/winston-newrelic/issues"
   }
 }

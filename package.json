@@ -20,7 +20,7 @@
     "email": "ranm@codeoasis.com"
   },
   "dependencies": {
-    "newrelic": "^1",
+    "newrelic": "^2",
     "winston": ">=0.2 <2.4"
   },
   "devDependencies": {
